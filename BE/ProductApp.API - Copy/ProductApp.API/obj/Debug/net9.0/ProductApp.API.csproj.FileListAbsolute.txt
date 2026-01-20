@@ -357,3 +357,5 @@ D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debu
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductA.A15D0BDD.Up2Date
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.genruntimeconfig.cache
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ref\ProductApp.API.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Npgsql.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

@@ -7,13 +7,15 @@ using ProductApp.Application.Services;
 using ProductApp.Domain.Entities;
 using ProductApp.Infrastructure.Persistence;
 using ProductApp.Infrastructure.Persistence.Repositories;
+using Npgsql;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
 builder.Services.AddDbContext<ProductAppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Configure Identity
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>

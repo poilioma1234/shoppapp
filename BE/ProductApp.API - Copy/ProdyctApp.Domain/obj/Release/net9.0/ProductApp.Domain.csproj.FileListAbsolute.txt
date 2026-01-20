@@ -1,0 +1,12 @@
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\bin\Release\net9.0\ProductApp.Domain.deps.json
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\bin\Release\net9.0\ProductApp.Domain.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\bin\Release\net9.0\ProductApp.Domain.pdb
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\obj\Release\net9.0\ProductApp.Domain.csproj.AssemblyReference.cache
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\obj\Release\net9.0\ProductApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\obj\Release\net9.0\ProductApp.Domain.AssemblyInfoInputs.cache
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\obj\Release\net9.0\ProductApp.Domain.AssemblyInfo.cs
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\obj\Release\net9.0\ProductApp.Domain.csproj.CoreCompileInputs.cache
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\obj\Release\net9.0\ProductApp.Domain.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\obj\Release\net9.0\refint\ProductApp.Domain.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\obj\Release\net9.0\ProductApp.Domain.pdb
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProdyctApp.Domain\obj\Release\net9.0\ref\ProductApp.Domain.dll

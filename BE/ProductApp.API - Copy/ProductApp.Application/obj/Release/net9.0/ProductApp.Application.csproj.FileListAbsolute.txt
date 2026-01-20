@@ -1,0 +1,15 @@
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\bin\Release\net9.0\ProductApp.Application.deps.json
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\bin\Release\net9.0\ProductApp.Application.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\bin\Release\net9.0\ProductApp.Application.pdb
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\bin\Release\net9.0\ProductApp.Domain.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\bin\Release\net9.0\ProductApp.Domain.pdb
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\ProductApp.Application.csproj.AssemblyReference.cache
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\ProductApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\ProductApp.Application.AssemblyInfoInputs.cache
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\ProductApp.Application.AssemblyInfo.cs
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\ProductApp.Application.csproj.CoreCompileInputs.cache
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\ProductA.2FD14B52.Up2Date
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\ProductApp.Application.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\refint\ProductApp.Application.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\ProductApp.Application.pdb
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.Application\obj\Release\net9.0\ref\ProductApp.Application.dll
