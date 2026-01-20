@@ -1,1 +1,54 @@
-/* You can add global styles to this file, and also import other style files */
+@use 'tailwindcss';
+@use 'primeicons/primeicons.css';
+
+/* Nếu bạn có file override riêng cho PrimeNG thì import vào đây */
+/* @use './styles/prime-overrides'; */
+
+/* 2. ĐỊNH NGHĨA THỨ TỰ ƯU TIÊN (QUAN TRỌNG) */
+/* Sắp xếp: Base < PrimeNG < Components < Utilities (Tailwind thắng tất cả) */
+@layer base, primeng, components, utilities;
+
+/* 3. Cấu hình Base (Thẻ HTML cơ bản) */
+@layer base {
+  body {
+    /* Set font và màu chữ mặc định toàn web */
+    @apply bg-white text-gray-800 font-sans antialiased text-base;
+    font-family: 'Inter', sans-serif;
+  }
+
+  /* Reset các thẻ heading nếu cần */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-bold text-gray-900;
+  }
+}
+
+/* 4. Layer dành riêng cho PrimeNG (Để gom style của PrimeNG vào một chỗ) */
+@layer primeng {
+  /* Import các file CSS của PrimeNG vào trong layer này 
+     (Lưu ý: Cần kiểm tra kỹ cách import tùy phiên bản PrimeNG v17 hay v18+) 
+     Nếu không import được trong @layer, bạn có thể viết style override ở đây.
+  */
+
+  /* Ví dụ override nút bấm của PrimeNG */
+  .p-button {
+    border-radius: 8px; /* Bo góc */
+  }
+}
+
+/* 5. Layer Components (Các class tổ hợp do bạn tự tạo) */
+@layer components {
+  /* Ví dụ: Tạo một class tiêu đề dùng chung */
+  .shoppe-heading {
+    @apply text-2xl font-bold text-blue-600 mb-4;
+  }
+
+  /* Class cho thẻ Card sản phẩm */
+  .product-card {
+    @apply border border-gray-200 rounded-lg p-4 hover:shadow-lg transition-shadow;
+  }
+}
