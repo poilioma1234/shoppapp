@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using ProductApp.API.Middleware;
 using ProductApp.Application.Interfaces.Repositories;
 using ProductApp.Application.Interfaces.Services;
 using ProductApp.Application.Mappings;
@@ -7,8 +8,8 @@ using ProductApp.Application.Services;
 using ProductApp.Domain.Entities;
 using ProductApp.Infrastructure.Persistence;
 using ProductApp.Infrastructure.Persistence.Repositories;
+using ProductApp.Infrastructure.Services;
 using Npgsql;
-using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -42,6 +43,7 @@ builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<IImageService, ImageService>();
 
 builder.Services.AddEndpointsApiExplorer(); 
 builder.Services.AddOpenApi();               
@@ -64,6 +66,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// Enable static files to serve uploaded images
+app.UseStaticFiles();
+
+// Error handling middleware
+app.UseMiddleware<ErrorHandlingMiddleware>();
+
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

@@ -175,17 +175,6 @@ D:\Thực tập\Dự án cá nhân\ProductApp.API\ProductApp.API\obj\Debug\net9.
 D:\Thực tập\Dự án cá nhân\ProductApp.API\ProductApp.API\bin\Debug\net9.0\AutoMapper.dll
 D:\Thực tập\Dự án cá nhân\ProductApp.API\ProductApp.API\bin\Debug\net9.0\FluentValidation.dll
 D:\Thực tập\Dự án cá nhân\ProductApp.API\ProductApp.API\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.csproj.AssemblyReference.cache
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\rpswa.dswa.cache.json
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.AssemblyInfoInputs.cache
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.AssemblyInfo.cs
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.csproj.CoreCompileInputs.cache
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.MvcApplicationPartsAssemblyInfo.cs
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.MvcApplicationPartsAssemblyInfo.cache
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.dll
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\refint\ProductApp.API.dll
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.pdb
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\appsettings.Development.json
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\appsettings.json
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\ProductApp.API.staticwebassets.endpoints.json
@@ -241,6 +230,8 @@ D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debu
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Npgsql.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -345,6 +336,14 @@ D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debu
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\ProductApp.Application.pdb
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\ProductApp.Infrastructure.pdb
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\ProductApp.Domain.pdb
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.csproj.AssemblyReference.cache
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.AssemblyInfoInputs.cache
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.AssemblyInfo.cs
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.csproj.CoreCompileInputs.cache
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -355,7 +354,8 @@ D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debu
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductA.A15D0BDD.Up2Date
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\refint\ProductApp.API.dll
+D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.pdb
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ProductApp.API.genruntimeconfig.cache
 D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\obj\Debug\net9.0\ref\ProductApp.API.dll
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Npgsql.dll
-D:\Thực tập\Dự án cá nhân\ProductApp.API - Copy\ProductApp.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bx6tXeAPlDk=",
+  "dgSpecHash": "niXCOw0BZ7I=",
   "success": true,
   "projectFilePath": "D:\\Thực tập\\Dự án cá nhân\\ProductApp.API - Copy\\ProductApp.API\\ProductApp.API.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,10 @@
     "C:\\Users\\canph\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.11\\microsoft.aspnetcore.cryptography.internal.9.0.11.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\9.0.11\\microsoft.aspnetcore.cryptography.keyderivation.9.0.11.nupkg.sha512",
+    "C:\\Users\\canph\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\canph\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\canph\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\canph\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\9.0.11\\microsoft.aspnetcore.identity.entityframeworkcore.9.0.11.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
@@ -37,6 +41,9 @@
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.11\\microsoft.extensions.dependencyinjection.9.0.11.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.11\\microsoft.extensions.dependencymodel.9.0.11.nupkg.sha512",
+    "C:\\Users\\canph\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.0\\microsoft.extensions.diagnostics.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\canph\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0\\microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\canph\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.0\\microsoft.extensions.hosting.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.extensions.identity.core\\9.0.11\\microsoft.extensions.identity.core.9.0.11.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.extensions.identity.stores\\9.0.11\\microsoft.extensions.identity.stores.9.0.11.nupkg.sha512",
     "C:\\Users\\canph\\.nuget\\packages\\microsoft.extensions.logging\\9.0.11\\microsoft.extensions.logging.9.0.11.nupkg.sha512",
